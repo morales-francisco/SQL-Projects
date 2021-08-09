@@ -1,1 +1,1 @@
-## Exploratory Data Analysis - Toys Maven
+## Exploratory Data Analysis - Maven Toys ##
