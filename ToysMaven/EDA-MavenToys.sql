@@ -1,6 +1,6 @@
 /*
 Maven Toys - Data Exploration 
-Skills used: Views, CTE's, Joins, Temp Tables, Aggregate Functions, Converting Data Types, Top
+Skills used: Views, CTE's, Joins, Temp Tables, Aggregate Functions, Converting Data Types, Top, Pivot Table
 */
 
 USE ToysDataset
@@ -41,7 +41,7 @@ GROUP BY st.Store_City
 ORDER BY Total_Sales DESC
 GO
 
-		---Sales in "Ciudad de México"
+		---Sales in "Ciudad de MÃ©xico"
 SELECT st.Store_ID,
 st.Store_Name,
 CONVERT(INT, SUM(Units * Product_Price)) AS Sales_Money,
