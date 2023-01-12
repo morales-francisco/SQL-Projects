@@ -1,6 +1,6 @@
 # SQL Projects
 
-In this section you will find the different projects in which I have been using SQL as a tool.
+In this section you will find the different projects in which I have been working with SQL.
 
 To perform the different queries I have used Microsoft SQL Server.
 
