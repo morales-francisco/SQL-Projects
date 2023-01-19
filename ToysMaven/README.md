@@ -8,11 +8,11 @@ Maven Toys is a fictitious chain of toy stores in Mexico. This dataset includes 
 The data source is [Maven Analytics]( https://www.mavenanalytics.io/data-playground)
 
 ## Objective ##
-The objective of this project is to answer the following questions:
--	What was the total sales by city?
--	What was the total sales by category?
--	How much money is tied up in inventory at the toy stores?
--	What were the top 5 products sold? 
--	Which product categories drive the biggest profits?
--	How was the distribution of sales of the different categories over the different months? Is there any seasonality?
+This project's goal is to respond to the following questions: 
+- What were the city's total sales? 
+- How much money did each category make overall? 
+- How much money does the toy industry have locked up in inventory? 
+- What were the top 5 selling items? 
+- What product groups generate the highest profits? 
+- How were the sales split among the various categories over the various months? Exists a seasonal pattern?
 
